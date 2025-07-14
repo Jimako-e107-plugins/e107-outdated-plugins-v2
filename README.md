@@ -6,3 +6,7 @@ Mostly abandoned plugins for version 2. Cleaning my own repos.  They will need t
 ## mpdf by SimSync
 https://github.com/SimSync/mpdf
 
+## Cookie Consent by Lóna Lore
+https://github.com/lonalore/cookie_consent
+
+
