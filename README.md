@@ -13,6 +13,8 @@ https://github.com/lonalore/cookie_consent
 ## e107-events by schlrech René Schlegel
 https://github.com/schlrech/e107-events
 
+## google_analytics by Lóna Lore
+https://github.com/lonalore/google_analytics
 
 ## mpdf by SimSync
 https://github.com/SimSync/mpdf
