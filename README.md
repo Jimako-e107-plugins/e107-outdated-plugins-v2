@@ -22,3 +22,7 @@ https://github.com/lonalore/google_analytics
 
 ## mpdf by SimSync
 https://github.com/SimSync/mpdf
+
+## nofollow by arunshekher Arun S. Sekher
+https://github.com/arunshekher/nofollow
+
