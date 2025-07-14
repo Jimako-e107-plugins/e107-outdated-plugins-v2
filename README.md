@@ -2,6 +2,10 @@
 
 Mostly abandoned plugins for version 2. Cleaning my own repos.  They will need to updated for 2.3.4 or PHP 8.
 
+
+## Alexa - integration plugin for Amazon Echo devices by Lóna Lore  
+https://github.com/lonalore/alexa
+
 ## Backup to Dropbox (e107 v2 plugin) by Lóna Lore
 https://github.com/lonalore/backup_dropbox
 
