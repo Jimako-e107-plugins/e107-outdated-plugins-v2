@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e107Plugin name="e107projects" lan="LAN_PLUGIN_E107PROJECTS_NAME" version="1.0" date="2016-11-22" compatibility="2.0" installRequired="true">
+	<author name="Lóna Lore" url="https://github.com/lonalore/e107projects"/>
+	<summary lan="LAN_PLUGIN_E107PROJECTS_SUMM">...</summary>
+	<description lan="LAN_PLUGIN_E107PROJECTS_DESC">...</description>
+	<keywords>
+		<word>projects</word>
+	</keywords>
+	<category>tools</category>
+	<copyright>GNU General Public License v3</copyright>
+	<adminLinks>
+		<link url='admin_config.php' description='LAN_CONFIGURE' icon='images/e107projects_32.png' iconSmall='images/e107projects_16.png' icon128='images/e107projects_128.png' primary='true'>LAN_CONFIGURE</link>
+	</adminLinks>
+	<siteLinks>
+		<link url="{e_PLUGIN}e107projects/projects.php" perm='everyone' sef='projects'>LAN_PLUGIN_E107PROJECTS_PROJECTS</link>
+		<link url="{e_PLUGIN}e107projects/contributors.php" perm='everyone' sef='contributors'>LAN_PLUGIN_E107PROJECTS_CONTRIBUTORS</link>
+	</siteLinks>
+	<pluginPrefs>
+		<pref name='submit_project'>255</pref>
+		<pref name='google_places_api_key'></pref>
+		<pref name='search_handler'>db</pref>
+		<pref name='github_secret'></pref>
+	</pluginPrefs>
+	<dependencies>
+		<plugin name='social' min_version='1.0' />
+		<plugin name='nodejs' min_version='1.3' />
+		<plugin name='nodejs_notify' min_version='1.2' />
+	</dependencies>
+	<extendedFields>
+		<field name="location" type='EUF_TEXT' default="" active="true" system="false" text="LAN_PLUGIN_E107PROJECTS_LOCATION" read="e_UC_MEMBER" write="e_UC_MEMBER" applicable="e_UC_MEMBER" required="1" error="LAN_PLUGIN_E107PROJECTS_LOCATION_ERROR"/>
+		<field name="notification_project" type='EUF_INTEGER' default='1' active="true" />
+		<field name="notification_project_sound" type='EUF_INTEGER' default='1' active="true" />
+		<field name="notification_push" type='EUF_INTEGER' default='1' active="true" />
+		<field name="notification_push_sound" type='EUF_INTEGER' default='1' active="true" />
+		<field name="notification_commit_comment" type='EUF_INTEGER' default='1' active="true" />
+		<field name="notification_commit_comment_sound" type='EUF_INTEGER' default='1' active="true" />
+		<field name="notification_fork" type='EUF_INTEGER' default='1' active="true" />
+		<field name="notification_fork_sound" type='EUF_INTEGER' default='1' active="true" />
+		<field name="notification_issue_comment" type='EUF_INTEGER' default='1' active="true" />
+		<field name="notification_issue_comment_sound" type='EUF_INTEGER' default='1' active="true" />
+		<field name="notification_issues" type='EUF_INTEGER' default='1' active="true" />
+		<field name="notification_issues_sound" type='EUF_INTEGER' default='1' active="true" />
+		<field name="notification_milestone" type='EUF_INTEGER' default='1' active="true" />
+		<field name="notification_milestone_sound" type='EUF_INTEGER' default='1' active="true" />
+		<field name="notification_pull_request" type='EUF_INTEGER' default='1' active="true" />
+		<field name="notification_pull_request_sound" type='EUF_INTEGER' default='1' active="true" />
+		<field name="notification_release" type='EUF_INTEGER' default='1' active="true" />
+		<field name="notification_release_sound" type='EUF_INTEGER' default='1' active="true" />
+		<field name="notification_watch" type='EUF_INTEGER' default='1' active="true" />
+		<field name="notification_watch_sound" type='EUF_INTEGER' default='1' active="true" />
+	</extendedFields>
+</e107Plugin>

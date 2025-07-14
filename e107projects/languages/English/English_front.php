@@ -1,0 +1,87 @@
+<?php
+
+/**
+ * @file
+ * Language file.
+ */
+
+define("LAN_E107PROJECTS_FRONT_01", "contributors");
+define("LAN_E107PROJECTS_FRONT_02", "commits");
+define("LAN_E107PROJECTS_FRONT_03", "projects");
+define("LAN_E107PROJECTS_FRONT_04", "issues");
+define("LAN_E107PROJECTS_FRONT_05", "Please enter your location!");
+define("LAN_E107PROJECTS_FRONT_06", "Project");
+define("LAN_E107PROJECTS_FRONT_07", "Action/status");
+define("LAN_E107PROJECTS_FRONT_08", "Submit");
+define("LAN_E107PROJECTS_FRONT_09", "There is no repository...");
+define("LAN_E107PROJECTS_FRONT_10", "Submitted");
+define("LAN_E107PROJECTS_FRONT_11", "Pending");
+define("LAN_E107PROJECTS_FRONT_12", "You can see your Github repositories below. Please submit only your e107 projects (where you are the author)!");
+define("LAN_E107PROJECTS_FRONT_13", "Approved");
+define("LAN_E107PROJECTS_FRONT_14", "Rejected");
+define("LAN_E107PROJECTS_FRONT_15", "Popular projects");
+define("LAN_E107PROJECTS_FRONT_16", "Name");
+define("LAN_E107PROJECTS_FRONT_17", "Owner");
+define("LAN_E107PROJECTS_FRONT_18", "Stars");
+define("LAN_E107PROJECTS_FRONT_19", "Search");
+define("LAN_E107PROJECTS_FRONT_20", "Order by");
+define("LAN_E107PROJECTS_FRONT_21", "Project name");
+define("LAN_E107PROJECTS_FRONT_22", "Popularity");
+define("LAN_E107PROJECTS_FRONT_23", "Search results");
+define("LAN_E107PROJECTS_FRONT_24", "Results per page");
+define("LAN_E107PROJECTS_FRONT_25", "Search by");
+define("LAN_E107PROJECTS_FRONT_26", "Project name");
+define("LAN_E107PROJECTS_FRONT_27", "Project owner");
+define("LAN_E107PROJECTS_FRONT_28", "Contributions");
+define("LAN_E107PROJECTS_FRONT_29", "commit");
+define("LAN_E107PROJECTS_FRONT_30", "Total");
+define("LAN_E107PROJECTS_FRONT_31", "This list contains your repositories (except forked ones) and organization repositories (where you have admin permission).");
+define("LAN_E107PROJECTS_FRONT_32", "Github username");
+define("LAN_E107PROJECTS_FRONT_33", "Access Token");
+define("LAN_E107PROJECTS_FRONT_34", "Limit");
+define("LAN_E107PROJECTS_FRONT_35", "Remaining");
+define("LAN_E107PROJECTS_FRONT_36", "Reset");
+define("LAN_E107PROJECTS_FRONT_37", "Issue [x] on GitHub");
+define("LAN_E107PROJECTS_FRONT_38", "Issue");
+define("LAN_E107PROJECTS_FRONT_39", "issues on GitHub");
+define("LAN_E107PROJECTS_FRONT_40", "stargazers on GitHub");
+define("LAN_E107PROJECTS_FRONT_41", "Star [x] on GitHub");
+define("LAN_E107PROJECTS_FRONT_42", "Star");
+define("LAN_E107PROJECTS_FRONT_43", "forks on GitHub");
+define("LAN_E107PROJECTS_FRONT_44", "Fork [x] on GitHub");
+define("LAN_E107PROJECTS_FRONT_45", "Fork");
+define("LAN_E107PROJECTS_FRONT_46", "watchers on GitHub");
+define("LAN_E107PROJECTS_FRONT_47", "Watch [x] on GitHub");
+define("LAN_E107PROJECTS_FRONT_48", "Watch");
+define("LAN_E107PROJECTS_FRONT_49", "followers on GitHub");
+define("LAN_E107PROJECTS_FRONT_50", "Follow [x] on GitHub");
+define("LAN_E107PROJECTS_FRONT_51", "Follow [x]");
+define("LAN_E107PROJECTS_FRONT_52", "Last updated:");
+define("LAN_E107PROJECTS_FRONT_53", "Contributors");
+define("LAN_E107PROJECTS_FRONT_54", "This project page was last updated on [x]");
+define("LAN_E107PROJECTS_FRONT_55", "Page info");
+define("LAN_E107PROJECTS_FRONT_56", "Stargazers");
+define("LAN_E107PROJECTS_FRONT_57", "Open Issues");
+define("LAN_E107PROJECTS_FRONT_58", "Github releases");
+define("LAN_E107PROJECTS_FRONT_59", "Watchers");
+define("LAN_E107PROJECTS_FRONT_60", "Forks");
+define("LAN_E107PROJECTS_FRONT_61", "Project Links");
+define("LAN_E107PROJECTS_FRONT_62", "There aren’t any releases here");
+define("LAN_E107PROJECTS_FRONT_63", "pre");
+define("LAN_E107PROJECTS_FRONT_64", "dev");
+define("LAN_E107PROJECTS_FRONT_65", "stable");
+define("LAN_E107PROJECTS_FRONT_66", "e107.org releases");
+define("LAN_E107PROJECTS_FRONT_67", "This project has not yet been contributed to e107.org.");
+define("LAN_E107PROJECTS_FRONT_68", "Contribute plugin/theme");
+define("LAN_E107PROJECTS_FRONT_69", "Search for");
+define("LAN_E107PROJECTS_FRONT_70", "Anything");
+define("LAN_E107PROJECTS_FRONT_71", "Plugin");
+define("LAN_E107PROJECTS_FRONT_72", "Theme");
+define("LAN_E107PROJECTS_FRONT_73", "Other");
+define("LAN_E107PROJECTS_FRONT_74", "Contributors");
+define("LAN_E107PROJECTS_FRONT_75", "Github repository");
+define("LAN_E107PROJECTS_FRONT_76", "contributions");
+define("LAN_E107PROJECTS_FRONT_77", "contribution");
+define("LAN_E107PROJECTS_FRONT_78", "");
+define("LAN_E107PROJECTS_FRONT_79", "");
+define("LAN_E107PROJECTS_FRONT_80", "");

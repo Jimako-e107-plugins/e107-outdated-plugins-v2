@@ -17,6 +17,9 @@ https://github.com/lonalore/cookie_consent
 ## e107-events by schlrech René Schlegel
 https://github.com/schlrech/e107-events
 
+## e107projects by Lóna Lore
+https://github.com/lonalore/e107projects
+
 ## google_analytics by Lóna Lore
 https://github.com/lonalore/google_analytics
 
