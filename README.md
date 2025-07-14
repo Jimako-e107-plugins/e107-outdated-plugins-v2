@@ -10,3 +10,7 @@ https://github.com/SimSync/mpdf
 https://github.com/lonalore/cookie_consent
 
 
+## e107-events by schlrech René Schlegel
+https://github.com/schlrech/e107-events
+
+
