@@ -2,9 +2,9 @@
 
 Mostly abandoned plugins for version 2. Cleaning my own repos.  They will need to updated for 2.3.4 or PHP 8.
 
+## Backup to Dropbox (e107 v2 plugin) by Lóna Lore
+https://github.com/lonalore/backup_dropbox
 
-## mpdf by SimSync
-https://github.com/SimSync/mpdf
 
 ## Cookie Consent by Lóna Lore
 https://github.com/lonalore/cookie_consent
@@ -14,3 +14,5 @@ https://github.com/lonalore/cookie_consent
 https://github.com/schlrech/e107-events
 
 
+## mpdf by SimSync
+https://github.com/SimSync/mpdf
