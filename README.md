@@ -13,6 +13,8 @@ https://github.com/lonalore/backup_dropbox
 ## Cookie Consent by Lóna Lore
 https://github.com/lonalore/cookie_consent
 
+## e107 emotes restyle by arunshekher Arun S. Sekher
+https://github.com/arunshekher/e107-emotes-restyle
 
 ## e107-events by schlrech René Schlegel
 https://github.com/schlrech/e107-events
